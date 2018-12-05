@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">DevdasChatterjee_COMP304_Assignment_5</string>
+    <string name="cuisine_selection">Cuisine Selection</string>
+    <string name="restaurant_selection">Resraurant Selection</string>
+    <string name="map_display">Map</string>
+    <string name="satelite">Satelite</string>
+    <string-array name="cuisine">
+        <item>Italian</item>
+        <item>Greek</item>
+        <item>Chinese</item>
+        <item>Indian</item>
+    </string-array>
+
+    <string-array name="italian_restaurants">
+        <item>Paisano</item>
+        <item>Sambucas On Church</item>
+        <item>Scaddabush</item>
+        <item>Donatello Restaurant</item>
+    </string-array>
+    <string-array name="greek_restaurants">
+        <item>MR. GREEK</item>
+        <item>Pantheon Restaurant</item>
+        <item>Wynona Toronto</item>
+        <item>Athens Restaurant</item>
+    </string-array>
+    <string-array name="chinese_restaurants">
+        <item>Chung King Garden</item>
+        <item>Lee Chen Asian Bistro</item>
+        <item>China Gourmet Takeout</item>
+        <item>Peking Express</item>
+    </string-array>
+    <string-array name="indian_restaurants">
+        <item>Little India Restaurant</item>
+        <item>Bindia Indian Bistro</item>
+        <item>Kothur Indian Cuisine</item>
+        <item>Bhoj Indian Cuisine</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>
